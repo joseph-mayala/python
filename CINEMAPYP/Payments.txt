@@ -1,0 +1,4 @@
+PaymentID, BookingID, Total Booking, Payment Method, Payment Date, Status
+P1, B21, RM42.00, Cash, 20/09/2025, Completed
+P2, B22, RM42.00, Cash, 13/10/2025, Completed
+P3, B23, RM72.00, Debit Card, 15/10/2025, Completed

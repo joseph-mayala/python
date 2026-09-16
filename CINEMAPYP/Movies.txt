@@ -1,0 +1,11 @@
+Movie Title, Genre, Duration, Age Based Rating, Ticket Price, Status
+Demon Slayer: Infinity Castle (English), Anime/Action, 2h 35m, PG-13, RM20, Now Showing
+Chainsaw Man: Reze Arc, Anime/Action, 1h 40m, 18+, RM22, Now Showing
+Superman, Superhero/Action, 2h 9m, PG-13, RM21, Now Showing
+Jurassic World: Rebirth, Sci-Fi/Adventure, 2h 15m, PG-13, RM22, Now Showing
+The Bad Guys 2, Animation/Comedy, 1h 44m, PG, RM18, Now Showing
+The Fantastic Four: First Steps, Superhero/Action, 1h 55m, PG-13, RM21, Now Showing
+Moana (Live Action), Adventure/Musical, Unknown, PG, RM-, Coming Soon
+Spider-Man: Brand New Day, Superhero/Action, Unknown, PG-13, RM-, Coming Soon
+Avengers: Doomsday, Superhero/Action, Unknown, PG-13, RM-, Coming Soon
+Toy Story 5, Animation/Family, Unknown, G, RM-, Coming Soon

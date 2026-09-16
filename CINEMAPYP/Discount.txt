@@ -1,0 +1,4 @@
+DiscountID, DiscountName, DiscountRate
+D1, Student Discount, 15%
+D2, Senior Citizen Discount, 20%
+D3, Children Discount, 15%

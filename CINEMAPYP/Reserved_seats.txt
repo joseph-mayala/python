@@ -1,0 +1,16 @@
+ShowID, Reserved Seats
+S1, A1 A2
+S2, B5 B6
+S4, D2 D3 D4
+S6, F1 F2
+S7, G5
+S8, H3 H4
+S9, A6 A7
+S15, C3 C4
+S20, D5
+S25, E2 E3
+S30, F6 F7
+S40, H2 H3
+S45, A8
+S55, C5
+S5, E3 E4 E5 E6

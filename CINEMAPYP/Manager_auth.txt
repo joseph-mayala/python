@@ -1,0 +1,4 @@
+ManagerID, ManagerName, Password
+M1, Ali, qwerty1234
+M2, Adam, qwerty456
+M3, Lee, qwerty789

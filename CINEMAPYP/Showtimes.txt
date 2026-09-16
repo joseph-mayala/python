@@ -1,0 +1,99 @@
+ShowID, Movie Title, AuditoriumID, Date, Time
+S1, Demon Slayer: Infinity Castle (English), Audi 1, Mon - 13 Oct, 1:00 PM
+S2, Chainsaw Man: Reze Arc, Audi 2, Mon - 13 Oct, 4:00 PM
+S3, Superman, Audi 3, Mon - 13 Oct, 7:00 PM
+S4, Jurassic World: Rebirth, Audi 4, Mon - 13 Oct, 12:30 PM
+S5, The Bad Guys 2, Audi 5, Mon - 13 Oct, 3:30 PM
+S6, The Fantastic Four: First Steps, Audi 6, Mon - 13 Oct, 6:30 PM
+S7, Demon Slayer: Infinity Castle (English), Audi 1, Tue - 14 Oct, 1:00 PM
+S8, Chainsaw Man: Reze Arc, Audi 2, Tue - 14 Oct, 4:00 PM
+S9, Superman, Audi 3, Tue - 14 Oct, 7:00 PM
+S10, Jurassic World: Rebirth, Audi 4, Tue - 14 Oct, 12:30 PM
+S11, The Bad Guys 2, Audi 5, Tue - 14 Oct, 3:30 PM
+S12, The Fantastic Four: First Steps, Audi 6, Tue - 14 Oct, 6:30 PM
+S13, Demon Slayer: Infinity Castle (English), Audi 1, Wed - 15 Oct, 1:00 PM
+S14, Chainsaw Man: Reze Arc, Audi 2, Wed - 15 Oct, 4:00 PM
+S15, Superman, Audi 3, Wed - 15 Oct, 7:00 PM
+S16, Jurassic World: Rebirth, Audi 4, Wed - 15 Oct, 12:30 PM
+S17, The Bad Guys 2, Audi 5, Wed - 15 Oct, 3:30 PM
+S18, The Fantastic Four: First Steps, Audi 6, Wed - 15 Oct, 6:30 PM
+S19, Demon Slayer: Infinity Castle (English), Audi 1, Thu - 16 Oct, 1:00 PM
+S20, Chainsaw Man: Reze Arc, Audi 2, Thu - 16 Oct, 4:00 PM
+S21, Superman, Audi 3, Thu - 16 Oct, 7:00 PM
+S22, Jurassic World: Rebirth, Audi 4, Thu - 16 Oct, 12:30 PM
+S23, The Bad Guys 2, Audi 5, Thu - 16 Oct, 3:30 PM
+S24, The Fantastic Four: First Steps, Audi 6, Thu - 16 Oct, 6:30 PM
+S25, Demon Slayer: Infinity Castle (English), Audi 1, Fri - 17 Oct, 1:00 PM
+S26, Chainsaw Man: Reze Arc, Audi 2, Fri - 17 Oct, 4:00 PM
+S27, Superman, Audi 3, Fri - 17 Oct, 7:00 PM
+S28, Jurassic World: Rebirth, Audi 4, Fri - 17 Oct, 12:30 PM
+S29, The Bad Guys 2, Audi 5, Fri - 17 Oct, 3:30 PM
+S30, The Fantastic Four: First Steps, Audi 6, Fri - 17 Oct, 6:30 PM
+S31, Demon Slayer: Infinity Castle (English), Audi 1, Sat - 18 Oct, 1:00 PM
+S32, Chainsaw Man: Reze Arc, Audi 2, Sat - 18 Oct, 4:00 PM
+S33, Superman, Audi 3, Sat - 18 Oct, 7:00 PM
+S34, Jurassic World: Rebirth, Audi 4, Sat - 18 Oct, 12:30 PM
+S35, The Bad Guys 2, Audi 5, Sat - 18 Oct, 3:30 PM
+S36, The Fantastic Four: First Steps, Audi 6, Sat - 18 Oct, 6:30 PM
+S37, Demon Slayer: Infinity Castle (English), Audi 1, Sun - 19 Oct, 1:00 PM
+S38, Chainsaw Man: Reze Arc, Audi 2, Sun - 19 Oct, 4:00 PM
+S39, Superman, Audi 3, Sun - 19 Oct, 7:00 PM
+S40, Jurassic World: Rebirth, Audi 4, Sun - 19 Oct, 12:30 PM
+S41, The Bad Guys 2, Audi 5, Sun - 19 Oct, 3:30 PM
+S42, The Fantastic Four: First Steps, Audi 6, Sun - 19 Oct, 6:30 PM
+S43, Demon Slayer: Infinity Castle (English), Audi 1, Fri - 17 Oct, 4:30 PM
+S44, Chainsaw Man: Reze Arc, Audi 2, Fri - 17 Oct, 4:30 PM
+S45, Superman, Audi 3, Fri - 17 Oct, 4:30 PM
+S46, Jurassic World: Rebirth, Audi 4, Fri - 17 Oct, 4:30 PM
+S47, The Bad Guys 2, Audi 5, Fri - 17 Oct, 4:30 PM
+S48, The Fantastic Four: First Steps, Audi 6, Fri - 17 Oct, 4:30 PM
+S49, Demon Slayer: Infinity Castle (English), Audi 1, Fri - 17 Oct, 8:00 PM
+S50, Chainsaw Man: Reze Arc, Audi 2, Fri - 17 Oct, 8:00 PM
+S51, Superman, Audi 3, Fri - 17 Oct, 8:00 PM
+S52, Jurassic World: Rebirth, Audi 4, Fri - 17 Oct, 8:00 PM
+S53, The Bad Guys 2, Audi 5, Fri - 17 Oct, 8:00 PM
+S54, The Fantastic Four: First Steps, Audi 6, Fri - 17 Oct, 8:00 PM
+S55, Demon Slayer: Infinity Castle (English), Audi 1, Sat - 18 Oct, 4:30 PM
+S56, Chainsaw Man: Reze Arc, Audi 2, Sat - 18 Oct, 4:30 PM
+S57, Superman, Audi 3, Sat - 18 Oct, 4:30 PM
+S58, Jurassic World: Rebirth, Audi 4, Sat - 18 Oct, 4:30 PM
+S59, The Bad Guys 2, Audi 5, Sat - 18 Oct, 4:30 PM
+S60, The Fantastic Four: First Steps, Audi 6, Sat - 18 Oct, 4:30 PM
+S61, Demon Slayer: Infinity Castle (English), Audi 1, Sat - 18 Oct, 8:00 PM
+S62, Chainsaw Man: Reze Arc, Audi 2, Sat - 18 Oct, 8:00 PM
+S63, Superman, Audi 3, Sat - 18 Oct, 8:00 PM
+S64, Jurassic World: Rebirth, Audi 4, Sat - 18 Oct, 8:00 PM
+S65, The Bad Guys 2, Audi 5, Sat - 18 Oct, 8:00 PM
+S66, The Fantastic Four: First Steps, Audi 6, Sat - 18 Oct, 8:00 PM
+S67, Demon Slayer: Infinity Castle (English), Audi 1, Thu - 16 Oct, 6:00 PM
+S68, Jurassic World: Rebirth, Audi 4, Thu - 16 Oct, 6:00 PM
+S69, The Bad Guys 2, Audi 5, Sun - 19 Oct, 10:30 AM
+S70, The Fantastic Four: First Steps, Audi 6, Sun - 19 Oct, 10:00 AM
+S71, Demon Slayer: Infinity Castle (English), Audi 1, Thu - 16 Oct, 9:30 PM
+S72, Chainsaw Man: Reze Arc, Audi 2, Thu - 16 Oct, 12:00 PM
+S73, Superman, Audi 3, Thu - 16 Oct, 3:00 PM
+S74, Jurassic World: Rebirth, Audi 4, Thu - 16 Oct, 5:30 PM
+S75, The Bad Guys 2, Audi 5, Thu - 16 Oct, 10:30 AM
+S76, The Fantastic Four: First Steps, Audi 6, Thu - 16 Oct, 11:00 AM
+S77, Demon Slayer: Infinity Castle (English), Audi 1, Fri - 17 Oct, 9:30 PM
+S78, Chainsaw Man: Reze Arc, Audi 2, Fri - 17 Oct, 12:00 PM
+S79, Superman, Audi 3, Fri - 17 Oct, 3:00 PM
+S80, Jurassic World: Rebirth, Audi 4, Fri - 17 Oct, 5:30 PM
+S81, The Bad Guys 2, Audi 5, Fri - 17 Oct, 10:30 AM
+S82, The Fantastic Four: First Steps, Audi 6, Fri - 17 Oct, 11:00 AM
+S83, Demon Slayer: Infinity Castle (English), Audi 1, Sat - 18 Oct, 9:30 PM
+S84, Chainsaw Man: Reze Arc, Audi 2, Sat - 18 Oct, 12:00 PM
+S85, Superman, Audi 3, Sat - 18 Oct, 3:00 PM
+S86, Jurassic World: Rebirth, Audi 4, Sat - 18 Oct, 5:30 PM
+S87, The Bad Guys 2, Audi 5, Sat - 18 Oct, 10:30 AM
+S88, The Fantastic Four: First Steps, Audi 6, Sat - 18 Oct, 11:00 AM
+S89, Demon Slayer: Infinity Castle (English), Audi 1, Sun - 19 Oct, 9:30 PM
+S90, Chainsaw Man: Reze Arc, Audi 2, Sun - 19 Oct, 12:00 PM
+S91, Superman, Audi 3, Sun - 19 Oct, 3:00 PM
+S92, Jurassic World: Rebirth, Audi 4, Sun - 19 Oct, 5:30 PM
+S93, The Bad Guys 2, Audi 5, Sun - 19 Oct, 10:30 AM
+S94, The Fantastic Four: First Steps, Audi 6, Sun - 19 Oct, 11:00 AM
+S95, Moana (Live Action), Audi 1, Mon - 22 Dec, 5:30 PM
+S96, Spider-Man: Brand New Day, Audi 3, Tue - 23 Dec, 9:30 PM
+S97, Avengers: Doomsday, Audi 6, Wed - 24 Dec, 9:30 PM
+S98, Toy Story 5, Audi 5, Thu - 25 Dec, 7:00 PM

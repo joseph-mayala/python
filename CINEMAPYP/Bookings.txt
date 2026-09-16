@@ -1,0 +1,24 @@
+BookingID, Username, ShowID, Seats, Status
+B1, Filewee, S1, A1 A2, Confirmed
+B2, bob, S2, B5 B6, Confirmed
+B3, charlie, S3, C1, Cancelled
+B4, diana, S4, D2 D3 D4, Confirmed
+B5, eric, S5, E8, Cancelled
+B6, frank, S6, F1 F2, Confirmed
+B7, grace, S7, G5, Confirmed
+B8, henry, S8, H3 H4, Confirmed
+B9, isabel, S9, A6 A7, Confirmed
+B10, jack, S10, B1 B2, Cancelled
+B11, kate, S15, C3 C4, Confirmed
+B12, leo, S20, D5, Confirmed
+B13, mary, S25, E2 E3, Confirmed
+B14, nick, S30, F6 F7, Confirmed
+B15, olivia, S35, G1, Cancelled
+B16, paul, S40, H2 H3, Confirmed
+B17, quinn, S45, A8, Confirmed
+B18, rachel, S50, B3 B4, Cancelled
+B19, sam, S55, C5, Confirmed
+B20, tina, S60, G4 G5, Cancelled
+B21, Walk-in Customer, S9, D1 D9, Cancelled
+B22, Walk-in Customer, S15, A3 A4, Cancelled
+B23, Walk-in Customer, S5, E3 E4 E5 E6, Confirmed

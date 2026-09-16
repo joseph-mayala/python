@@ -1,0 +1,7 @@
+IssueID, AuditoriumID, IssueType, Description, Status
+IS1, Audi 1, Projector, Projector not working properly, Resolved
+IS2, Audi 2, Sound, Speaker making noise, Resolved
+IS3, Audi 1, Projector, Not bright, Resolved
+IS4, Audi 2, Sound, Low audio, Under Maintenance
+IS5, Audi 2, AC, Too cold, Under Maintenance
+IS6, Audi 1, Projector, Too bright, Under Maintenance
